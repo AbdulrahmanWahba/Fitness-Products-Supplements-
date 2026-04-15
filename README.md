@@ -39,6 +39,7 @@ A **decomposition tree** enables deep root-cause analysis, and interactive slice
 ## 🛠 Tools
 
 * Power BI
+* power Query for ETL
 * DAX
 
 ---
