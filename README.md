@@ -44,8 +44,24 @@ A **decomposition tree** enables deep root-cause analysis, and interactive slice
 ---
 
 ## 📸 Dashboard Preview
-![Overview](images/Overview.png)
-![Returns Analysis](images/Return Analysis.png)
+
+### Overview
+![Overview](Overview.png)
+
+### Customer Analysis
+![Customer Analysis](Customer Analysis.png)
+
+### Product Analysis
+![Product Analysis](Product Analysis.png)
+
+### Returns Analysis
+![Returns Analysis](Returns Analysis.png)
+
+### Location Analysis
+![Location Analysis](Location Analysis.png)
+
+### Time Analysis
+![Time Analysis](Time Analysis.png)
 
 
 ---
