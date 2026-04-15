@@ -50,19 +50,19 @@ A **decomposition tree** enables deep root-cause analysis, and interactive slice
 ![Overview](Overview.png)
 
 ### Customer Analysis
-![Customer Analysis](Customer Analysis.png)
+![Customer Analysis](Customer_Analysis.png)
 
 ### Product Analysis
-![Product Analysis](Product Analysis.png)
+![Product Analysis](Product_Analysis.png)
 
 ### Returns Analysis
-![Returns Analysis](Returns Analysis.png)
+![Returns Analysis](Returns_Analysis.png)
 
 ### Location Analysis
-![Location Analysis](Location Analysis.png)
+![Location Analysis](Location_Analysis.png)
 
 ### Time Analysis
-![Time Analysis](Time Analysis.png)
+![Time Analysis](Time_Analysis.png)
 
 
 ---
